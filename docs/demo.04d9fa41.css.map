@@ -1,0 +1,1 @@
+{"version":3,"sources":["demo.css"],"names":[],"mappings":"AAAA,8EAA8E,CAE9E,EACE,gCACF","file":"demo.04d9fa41.css","sourceRoot":"../src","sourcesContent":["@import url('https://fonts.googleapis.com/css2?family=Quicksand&display=swap');\n\n*{ \n  font-family: 'Quicksand', sans-serif;\n} \n"]}
